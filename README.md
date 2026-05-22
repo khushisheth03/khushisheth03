@@ -1,16 +1,15 @@
-## Hi there 👋
+### Khushi Sheth
 
-<!--
-**khushisheth03/khushisheth03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+STEM Student · CBSE 95%+ · Science Communicator & Research Enthusiast 
+Class XII, Ahmedabad, India
 
-Here are some ideas to get you started:
+Currently researching how input morphology affects LLM output quality — and building tools to close that gap for everyday users and neurodivergent learners.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active projects**
+- [PromptEase](https://github.com/khushisheth03/PromptEase) — Chrome extension that structures AI prompts to reduce cognitive load
+- Research paper on LLM input sensitivity (under review)
+- Illustrated literary anthology — *My Trains of Thought*
+
+**Interests:** Quantum physics · Cryptographic systems · Computational science · Structural chemistry · Science communication
+
+[LinkedIn](https://linkedin.com/in/khushisheth3)
