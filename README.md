@@ -1,6 +1,6 @@
 ### Khushi Sheth
 
-STEM Student · CBSE 95%+ · Science Communicator & Research Enthusiast 
+STEM Student · CBSE 95%+ · Computational Science, Theoretical Physics, HCI Enthusiast
 Class XII, Ahmedabad, India
 
 Currently researching how input morphology affects LLM output quality — and building tools to close that gap for everyday users and neurodivergent learners.
